@@ -13,5 +13,5 @@
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 &nbsp;&nbsp;
-## Skills (https://user-images.githubusercontent.com/57231249/143439867-7a819ed6-0245-427c-a613-bf86faa03bd0.gif)
+## Skills 
 
