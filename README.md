@@ -13,7 +13,7 @@
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 &nbsp;&nbsp;
-## Skills ![61](https://user-images.githubusercontent.com/57231249/143441297-a4f45e99-c28f-46b6-b097-72736286cec4.gif)
+## Skills &nbsp;&nbsp; ![61](https://user-images.githubusercontent.com/57231249/143441297-a4f45e99-c28f-46b6-b097-72736286cec4.gif)
 
 
 
