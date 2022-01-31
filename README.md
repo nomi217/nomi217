@@ -16,38 +16,31 @@
 &nbsp;&nbsp;
 ## Technology and Tools 
 &nbsp;&nbsp;
-&nbsp;&nbsp;
-&nbsp;&nbsp;
+
 ## Front-End Technology![62](https://user-images.githubusercontent.com/57231249/143441647-4b049446-2059-4989-9d78-52eccd62a637.gif)
-https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg
-https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg
-https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/javascript.svg
-https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/json.svg
-https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/react.svg
-https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/azurefunctions.svg
-https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/csharp.svg
-https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dotnet.svg
-https://raw.githubusercontent.com/leungwensen/svg-icon/master/dist/svg/dev/php.svg
-https://raw.githubusercontent.com/leungwensen/svg-icon/master/dist/svg/dev/python.svg
-&nbsp;&nbsp;
-&nbsp;&nbsp;
+![62](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg)
+![62](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg)
+![62](https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/javascript.svg)
+![62](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/json.svg)
+![62](https://raw.githubusercontent.com/NyashaNziramasanga/NyashaNziramasanga/master/images/react.svg)
+![62](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/azurefunctions.svg)
+![62](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/csharp.svg)
+![62](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dotnet.svg)
+![62](https://raw.githubusercontent.com/leungwensen/svg-icon/master/dist/svg/dev/php.svg)
+![62](https://raw.githubusercontent.com/leungwensen/svg-icon/master/dist/svg/dev/python.svg)
 &nbsp;&nbsp;
 ## Back-End Technology![62](https://user-images.githubusercontent.com/57231249/143441647-4b049446-2059-4989-9d78-52eccd62a637.gif)
-https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/azurefunctions.svg
-https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/csharp.svg
-https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dotnet.svg
-https://raw.githubusercontent.com/leungwensen/svg-icon/master/dist/svg/dev/php.svg
-https://raw.githubusercontent.com/leungwensen/svg-icon/master/dist/svg/dev/python.svg
-&nbsp;&nbsp;
-&nbsp;&nbsp;
+![62](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/azurefunctions.svg)
+![62](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/csharp.svg)
+![62](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dotnet.svg)
+![62](https://raw.githubusercontent.com/leungwensen/svg-icon/master/dist/svg/dev/php.svg)
+![62]https://raw.githubusercontent.com/leungwensen/svg-icon/master/dist/svg/dev/python.svg)
 &nbsp;&nbsp;
 ## Database![62](https://raw.githubusercontent.com/leungwensen/svg-icon/master/dist/svg/dev/database.svg)
-https://raw.githubusercontent.com/leungwensen/svg-icon/master/dist/svg/dev/mysql.svg
-https://raw.githubusercontent.com/leungwensen/svg-icon/master/dist/svg/dev/msql_server.svg
-&nbsp;&nbsp;
-&nbsp;&nbsp;
+![62](https://raw.githubusercontent.com/leungwensen/svg-icon/master/dist/svg/dev/mysql.svg)
+![62](https://raw.githubusercontent.com/leungwensen/svg-icon/master/dist/svg/dev/msql_server.svg)
 &nbsp;&nbsp;
 ## Cloud![62](https://icons8.com/icon/85919/cloud)
-https://img.icons8.com/fluency/48/000000/azure-1.png
+![62](https://img.icons8.com/fluency/48/000000/azure-1.png)
 ## Tools!
-https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jirasoftware.svg
+![62](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jirasoftware.svg)
