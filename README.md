@@ -24,7 +24,8 @@
 ## Database![62](https://img.icons8.com/ios-filled/25/000000/database.png)
 <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/master/dist/svg/dev/mysql.svg" width="30" height="30"><img src="https://raw.githubusercontent.com/leungwensen/svg-icon/master/dist/svg/dev/msql_server.svg" width="30" height="30">
 &nbsp;&nbsp;
-## Cloud![62]
+## Cloud
 <img src="https://img.icons8.com/fluency/48/000000/azure-1.png" width="30" height="30">
+&nbsp;&nbsp;
 ## Tools
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jirasoftware.svg" width="30" height="30">
