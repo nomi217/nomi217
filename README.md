@@ -1,9 +1,9 @@
 ![download](https://user-images.githubusercontent.com/57231249/142175624-f5d51450-e55f-43b9-8a40-e63a23d51510.png)
 <h3 align="center">A passionate software developer</h3>
 
-🔭 I’m currently working on my Python Course
+🔭 I’m currently working on my .Net
 
-🌱 I’m currently learning Python, HTML5 and CSS3
+🌱 I’m currently learning Microsoft Azure
 
 👯 I’m looking to collaborate on front-end and back-end projects
 
