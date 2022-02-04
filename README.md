@@ -5,14 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nomi217" alt="nomi217" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@nauman_khalid_7" target="blank"><img src="https://img.shields.io/twitter/follow/@nauman_khalid_7?logo=twitter&style=for-the-badge" alt="@nauman_khalid_7" /></a> </p>
-
 - 🔭 I’m currently working on **.Net**
 
 - 🌱 I’m currently learning **Microsoft Azure**
 
 - 💬 Ask me about **Frontend and backend languages**
-- 
+
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
 - 📫 How to reach me **naumankhalid217@gmail.com**
