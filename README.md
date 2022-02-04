@@ -1,14 +1,6 @@
 ![download](https://user-images.githubusercontent.com/57231249/142175624-f5d51450-e55f-43b9-8a40-e63a23d51510.png)
 <h3 align="center">A passionate software developer</h3>
 
-🔭 I’m currently working on my .Net
-
-🌱 I’m currently learning Microsoft Azure
-
-👯 I’m looking to collaborate on front-end and back-end projects
-
-📫 How to reach me: brantlauro@gmail.com
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomi217&label=Profile%20views&color=0e75b6&style=flat" alt="nomi217" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nomi217" alt="nomi217" /></a> </p>
@@ -17,9 +9,11 @@
 
 - 🔭 I’m currently working on **.Net**
 
-- 🌱 I’m currently learning **MS Azure**
+- 🌱 I’m currently learning **Microsoft Azure**
 
 - 💬 Ask me about **Frontend and backend languages**
+- 
+- 👯 I’m looking to collaborate on **front-end and back-end projects**
 
 - 📫 How to reach me **naumankhalid217@gmail.com**
 
