@@ -1,5 +1,5 @@
 ![download](https://user-images.githubusercontent.com/57231249/142175624-f5d51450-e55f-43b9-8a40-e63a23d51510.png)
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">Senior Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomi217&label=Profile%20views&color=0e75b6&style=flat" alt="nomi217" /> </p>
 
