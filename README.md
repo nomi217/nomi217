@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomi217&label=Profile%20views&color=0e75b6&style=flat" alt="nomi217" /> </p>
 
-- 🔭 I’m currently working on **C#(.Net)**
+- 🔭 I’m currently working as a **Senior Software Engineer**
 
 - 🌱 I’m currently learning **Microsoft Azure**
 
