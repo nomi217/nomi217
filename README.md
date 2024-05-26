@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a **Senior Software Engineer**
 
-- 🌱 I’m currently learning **Microsoft Azure**
+- 🌱 I’m currently learning **Generative AI**
 
 - 💬 Ask me about **Frontend and backend languages**
 
