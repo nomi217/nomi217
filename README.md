@@ -2,8 +2,8 @@
 
 # 💫 About Me:
 
-### 👋 <b> Hi, I'm Nauman Khalid</b>
-<br>Software Engineer II @ NetSol Technologies<br><br>🤝 I'm looking to collaborate on<br>Agentic AI projects, Full Stack web applications, and ML/Data pipelines that solve real-world problems<br>🛠️ I'm looking to help with<br>Code reviews & system architecture, integrating AI into existing applications, and career guidance for developers breaking into AI<br>📚 I'm currently learning<br>LLMs & Prompt Engineering · MLOps & Model Deployment · Cloud-Native Architecture · AI Governance (ISO/IEC 42001)<br>💬 Ask me about<br>.NET & C# development, building Agentic AI systems, full stack architecture, or how to win global tech competitions 🏆
+## 👋 <b> Hi, I'm Nauman Khalid</b>
+Software Engineer II @ NetSol Technologies<br><br>🤝 I'm looking to collaborate on<br>Agentic AI projects, Full Stack web applications, and ML/Data pipelines that solve real-world problems<br>🛠️ I'm looking to help with<br>Code reviews & system architecture, integrating AI into existing applications, and career guidance for developers breaking into AI<br>📚 I'm currently learning<br>LLMs & Prompt Engineering · MLOps & Model Deployment · Cloud-Native Architecture · AI Governance (ISO/IEC 42001)<br>💬 Ask me about<br>.NET & C# development, building Agentic AI systems, full stack architecture, or how to win global tech competitions 🏆
 
 
 ## 🌐 Socials:
