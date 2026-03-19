@@ -21,7 +21,6 @@ Software Engineer II @ NetSol Technologies<br><br>🤝 I'm looking to collaborat
 </p><br/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomi217&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
-
 # Github Metrics
 <p align="center">
 	<img width="625em" src="https://github.com/nomi217/nomi217/blob/master/github-metrics.svg" />
@@ -29,7 +28,7 @@ Software Engineer II @ NetSol Technologies<br><br>🤝 I'm looking to collaborat
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nomi217&theme=default&no-frame=false&no-bg=true&margin-w=4)-->
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
