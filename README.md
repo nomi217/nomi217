@@ -23,7 +23,7 @@ Software Engineer II @ NetSol Technologies<br><br>🤝 I'm looking to collaborat
 
 # Github Metrics
 <p align="center">
-	<img width="625em" src="https://github.com/nomi217/nomi217/blob/main/github-metrics.svg" />
+	<img width="625em" src="https://github.com/nomi217/nomi217/blob/main/github-metrics_1.svg" />
 </p>
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nomi217&theme=default&no-frame=false&no-bg=true&margin-w=4)-->
