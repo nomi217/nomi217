@@ -18,8 +18,8 @@ Software Engineer II @ NetSol Technologies<br><br>🤝 I'm looking to collaborat
   <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nomi217&layout=compact&langs_count=8&theme=algolia"/>
 </a>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nomi217&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
-</p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nomi217&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p><br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomi217&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nomi217&theme=default&no-frame=false&no-bg=true&margin-w=4)
